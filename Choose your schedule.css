@@ -1,0 +1,46 @@
+body{
+    background-color: darkcyan;
+}
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+th{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+p3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+p4{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 2px solid;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 8px;
+}
